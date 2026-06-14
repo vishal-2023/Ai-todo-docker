@@ -7,6 +7,8 @@ node_modules/
 .env.development
 .env.production
 .env.test
+.env.*.local
+.env.example
 
 # logs
 logs/
